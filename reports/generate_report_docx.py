@@ -117,8 +117,8 @@ para("An AR/VR and AI-Guided Manual Assembly", align=WD_ALIGN_PARAGRAPH.CENTER, 
 para("Solution for Indian Manufacturing", align=WD_ALIGN_PARAGRAPH.CENTER, size=16, bold=True, space_after=24)
 para("Submitted in partial fulfilment of the requirements of the degree of", align=WD_ALIGN_PARAGRAPH.CENTER, space_after=2)
 para("Master of Technology by", align=WD_ALIGN_PARAGRAPH.CENTER, space_after=16)
-para("«Your Name»", align=WD_ALIGN_PARAGRAPH.CENTER, bold=True, space_after=4)
-para("Roll No. «24MEM3Rxx»", align=WD_ALIGN_PARAGRAPH.CENTER, space_after=28)
+para("BINET N B", align=WD_ALIGN_PARAGRAPH.CENTER, bold=True, space_after=4)
+para("Roll No. 25MEM3R03", align=WD_ALIGN_PARAGRAPH.CENTER, space_after=28)
 para("[Insert NIT Warangal emblem here]", align=WD_ALIGN_PARAGRAPH.CENTER, italic=True, color=(130,130,130), space_after=28)
 para("Department of Mechanical Engineering", align=WD_ALIGN_PARAGRAPH.CENTER, space_after=16)
 para("NATIONAL INSTITUTE OF TECHNOLOGY WARANGAL", align=WD_ALIGN_PARAGRAPH.CENTER, size=14, bold=True, space_after=18)
@@ -342,8 +342,8 @@ patents = [
      "in how verification is done, not that it is done."),
 
     ("3) Patent 3 – Assembly Step Recognition Using AR [3]:",
-     "US 11,715,300 B1 (granted). Inventors: Yuliang Guo, Xinyu Huang, Liu Ren (assignee probably "
-     "Robert Bosch GmbH; confirm on the front page). Filed 2022; expected term to about 2042. Status "
+     "US 11,715,300 B1 (granted). Inventors: Yuliang Guo, Xinyu Huang, Liu Ren. Assignee: Robert "
+     "Bosch GmbH. Filed 2022; expected term to about 2042. Status "
      "not officially verified.",
      "A first machine-learning model, trained on data generated from 2D images and matching 3D CAD "
      "models, turns a camera image into feature vectors; these are matched to feature-vector templates "
